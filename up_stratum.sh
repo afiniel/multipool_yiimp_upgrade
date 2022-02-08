@@ -1,5 +1,5 @@
 #####################################################
-# Created by cryptopool.builders for crypto use...
+# Created by Afiniel for crypto use...
 #####################################################
 
 source /etc/functions.sh
